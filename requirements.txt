@@ -1,0 +1,7 @@
+numpy>=1.26
+pandas>=2.0
+matplotlib>=3.7
+statsmodels>=0.14
+# Optional: Prophet is used for an additional forecast benchmark when installed.
+# The pipeline detects it automatically and skips it gracefully when absent.
+# prophet>=1.1

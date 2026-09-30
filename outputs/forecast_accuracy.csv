@@ -1,0 +1,19 @@
+level,series,model,n_test,mape_pct,rmse_units
+category,Beverages,holt_winters,26,18.05,864.73
+category,Beverages,sarima,26,19.42,877.97
+category,Beverages,seasonal_naive,26,20.41,938.78
+category,Frozen Foods,holt_winters,26,22.68,767.46
+category,Frozen Foods,sarima,26,21.21,744.1
+category,Frozen Foods,seasonal_naive,26,32.09,992.97
+category,Household,holt_winters,26,27.58,437.85
+category,Household,sarima,26,27.64,440.51
+category,Household,seasonal_naive,26,30.41,536.21
+category,Personal Care,holt_winters,26,16.43,1005.99
+category,Personal Care,sarima,26,15.48,958.1
+category,Personal Care,seasonal_naive,26,26.9,1522.16
+category,Snacks,holt_winters,26,38.41,2928.86
+category,Snacks,sarima,26,52.8,4015.43
+category,Snacks,seasonal_naive,26,42.94,4018.18
+category,ALL_CATEGORIES,holt_winters,130,24.63,1491.22
+category,ALL_CATEGORIES,sarima,130,27.31,1926.66
+category,ALL_CATEGORIES,seasonal_naive,130,30.55,2030.64

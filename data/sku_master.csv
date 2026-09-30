@@ -1,0 +1,46 @@
+sku_id,category,unit_price_usd,lead_time_weeks
+BEV-01,Beverages,3.22,1
+BEV-02,Beverages,2.95,2
+BEV-03,Beverages,1.92,1
+BEV-04,Beverages,4.18,2
+BEV-05,Beverages,3.67,1
+BEV-06,Beverages,3.25,1
+BEV-07,Beverages,3.75,1
+BEV-08,Beverages,3.26,1
+BEV-09,Beverages,3.27,1
+SNK-01,Snacks,2.65,2
+SNK-02,Snacks,3.15,1
+SNK-03,Snacks,1.29,2
+SNK-04,Snacks,1.19,2
+SNK-05,Snacks,1.22,2
+SNK-06,Snacks,1.68,1
+SNK-07,Snacks,1.19,1
+SNK-08,Snacks,1.56,1
+SNK-09,Snacks,1.33,1
+FRZ-01,Frozen Foods,4.63,2
+FRZ-02,Frozen Foods,5.55,3
+FRZ-03,Frozen Foods,4.63,3
+FRZ-04,Frozen Foods,3.36,3
+FRZ-05,Frozen Foods,4.09,3
+FRZ-06,Frozen Foods,2.65,3
+FRZ-07,Frozen Foods,4.33,3
+FRZ-08,Frozen Foods,6.17,3
+FRZ-09,Frozen Foods,3.49,2
+HHD-01,Household,6.74,2
+HHD-02,Household,3.37,3
+HHD-03,Household,8.77,3
+HHD-04,Household,2.46,3
+HHD-05,Household,7.08,3
+HHD-06,Household,2.03,2
+HHD-07,Household,3.04,4
+HHD-08,Household,5.5,3
+HHD-09,Household,5.62,2
+PCA-01,Personal Care,5.21,3
+PCA-02,Personal Care,1.72,2
+PCA-03,Personal Care,1.63,2
+PCA-04,Personal Care,5.01,3
+PCA-05,Personal Care,6.88,2
+PCA-06,Personal Care,3.44,2
+PCA-07,Personal Care,1.68,2
+PCA-08,Personal Care,4.99,2
+PCA-09,Personal Care,3.67,3

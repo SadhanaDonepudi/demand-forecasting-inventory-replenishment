@@ -1,0 +1,53 @@
+{
+  "test_weeks": 26,
+  "target_cycle_service_level_pct": 98.0,
+  "z_98pct": 2.054,
+  "uniform_policy": {
+    "description": "z=2.054 (98%), review period 2 weeks for all SKUs",
+    "avg_inventory_units": 79057.9,
+    "fill_rate_pct": 99.97
+  },
+  "segmented_policy": {
+    "description": "ABC-XYZ policy matrix: service 99%/98%/95% (A), 98%/97%/92% (B), 95%/92%/85% (C) by XYZ; review 1-4 weeks by segment",
+    "avg_inventory_units": 65584.4,
+    "fill_rate_pct": 99.81
+  },
+  "inventory_change_pct_segmented_vs_uniform": -17.04,
+  "sop_category_translation": [
+    {
+      "category": "Beverages",
+      "skus": 9,
+      "implied_weekly_replenishment_units": 3352.0,
+      "avg_order_up_to_units": 1617.4,
+      "total_safety_stock_units": 6368.5
+    },
+    {
+      "category": "Frozen Foods",
+      "skus": 9,
+      "implied_weekly_replenishment_units": 2460.6,
+      "avg_order_up_to_units": 2054.3,
+      "total_safety_stock_units": 7599.4
+    },
+    {
+      "category": "Household",
+      "skus": 9,
+      "implied_weekly_replenishment_units": 1365.1,
+      "avg_order_up_to_units": 1213.2,
+      "total_safety_stock_units": 4510.7
+    },
+    {
+      "category": "Personal Care",
+      "skus": 9,
+      "implied_weekly_replenishment_units": 4503.8,
+      "avg_order_up_to_units": 2512.3,
+      "total_safety_stock_units": 7973.6
+    },
+    {
+      "category": "Snacks",
+      "skus": 9,
+      "implied_weekly_replenishment_units": 4456.9,
+      "avg_order_up_to_units": 3884.3,
+      "total_safety_stock_units": 20022.8
+    }
+  ]
+}
